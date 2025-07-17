@@ -1,6 +1,6 @@
 # 👩‍💻 Olá, eu sou Camilly!
 
-Sou uma estudante apaixonada por tecnologia. Gosto de transformar ideias em experiências digitais criativas e funcionais.
+Sou uma estudante do último período de ADS apaixonada por tecnologia. Gosto de transformar ideias em experiências digitais criativas e funcionais.
 
 ![Estudante](https://img.shields.io/badge/Estudante-de%20Tecnologia-blue?style=for-the-badge&logo=graduation-cap)
 ![Criadora de Conteúdo](https://img.shields.io/badge/Criadora%20de%20Conteúdo-Tech%20%20-purple?style=for-the-badge&logo=youtube)
