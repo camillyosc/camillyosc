@@ -20,8 +20,8 @@ Sou uma estudante apaixonada por tecnologia. Gosto de transformar ideias em expe
 
 | 💻 **Linguagens & Frameworks**     | 🎨 **Design & Prototipação** | 🔧 **Ferramentas & Versionamento** |
 |-----------------------------------|------------------------------|------------------------------------|
-| HTML • CSS • JavaScript • Python  | Figma • Canva                | Git • GitHub • Vite • Next.js      |
-| React • TypeScript • Node.js • SQL|                              |                 
+| HTML • CSS • JavaScript • Python  | Figma • Canva                | Git • GitHub       |
+| React • TypeScript • Node.js • SQL  • Next.js|                              |                 
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
