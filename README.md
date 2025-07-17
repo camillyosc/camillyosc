@@ -46,7 +46,7 @@ Sou uma estudante apaixonada por tecnologia. Gosto de transformar ideias em expe
 
 ## 📫 Vamos nos conectar!
 
-[![Instagram](https://img.shields.io/badge/Instagram-@nickmiaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/(https://www.instagram.com/nickmiaa?igsh=MTJubDRsYmc4MDVyaQ==)?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@camilly--silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilly-silva-5117632a9)
 [![TikTok](https://img.shields.io/badge/TikTok-@nickmiaa-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@seutiktok)
 
