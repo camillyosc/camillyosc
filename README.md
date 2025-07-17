@@ -53,4 +53,4 @@ Sou uma estudante apaixonada por tecnologia. Gosto de transformar ideias em expe
 
 ---
 
-> ✨ “A tecnologia é a ponte entre ideias e impacto.”  
+> ✨ 
