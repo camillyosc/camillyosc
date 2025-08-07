@@ -3,7 +3,6 @@
 Sou uma estudante do último período de ADS apaixonada por tecnologia. Gosto de transformar ideias em experiências digitais criativas e funcionais.
 
 ![Estudante](https://img.shields.io/badge/Estudante-de%20Tecnologia-blue?style=for-the-badge&logo=graduation-cap)
-![Criadora de Conteúdo](https://img.shields.io/badge/Criadora%20de%20Conteúdo-Tech%20%20-purple?style=for-the-badge&logo=youtube)
 ![Aprendendo Sempre](https://img.shields.io/badge/Aprendendo-Sempre-green?style=for-the-badge&logo=book)
 
 ---
@@ -11,7 +10,6 @@ Sou uma estudante do último período de ADS apaixonada por tecnologia. Gosto de
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unicesumar**
 - 💡 Foco em **Desenvolver minhas habilidades dentro da tecnologia**
-- 📹 Criadora de conteúdo sobre tecnologia e aprendizado
 - 🌱 Sempre explorando novas ferramentas e linguagens
 
 ---
@@ -48,8 +46,6 @@ Sou uma estudante do último período de ADS apaixonada por tecnologia. Gosto de
 
 [![Instagram](https://img.shields.io/badge/Instagram-@nickmiaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nickmiaa?igsh=MTJubDRsYmc4MDVyaQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@camilly--silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilly-silva-5117632a9)
-[![TikTok](https://img.shields.io/badge/TikTok-@nickmiaaa-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nickmiaaa?_t=ZM-8y6ugS4WRAW&_r=)
-
 
 ---
 
