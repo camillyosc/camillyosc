@@ -1,6 +1,6 @@
 # 👩‍💻 Olá, eu sou Camilly!
 
-Sou uma estudante do último período de ADS apaixonada por tecnologia. Gosto de transformar ideias em experiências digitais criativas e funcionais.
+Sou formada em ADS apaixonada por tecnologia. Gosto de transformar ideias em experiências digitais criativas e funcionais.
 
 ![Estudante](https://img.shields.io/badge/Estudante-de%20Tecnologia-blue?style=for-the-badge&logo=graduation-cap)
 ![Aprendendo Sempre](https://img.shields.io/badge/Aprendendo-Sempre-green?style=for-the-badge&logo=book)
@@ -8,7 +8,7 @@ Sou uma estudante do último período de ADS apaixonada por tecnologia. Gosto de
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unicesumar**
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas** na **Unicesumar**
 - 💡 Foco em **Desenvolver minhas habilidades dentro da tecnologia**
 - 🌱 Sempre explorando novas ferramentas e linguagens
 
@@ -44,7 +44,6 @@ Sou uma estudante do último período de ADS apaixonada por tecnologia. Gosto de
 
 ## 📫 Vamos nos conectar!
 
-[![Instagram](https://img.shields.io/badge/Instagram-@nickmiaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nickmiaa?igsh=MTJubDRsYmc4MDVyaQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@camilly--silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilly-silva-5117632a9)
 
 ---
