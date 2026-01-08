@@ -2,7 +2,7 @@
 
 Sou formada em ADS apaixonada por tecnologia. Gosto de transformar ideias em experiências digitais criativas e funcionais.
 
-![Estudante](https://img.shields.io/badge/Estudante-de%20Tecnologia-blue?style=for-the-badge&logo=graduation-cap)
+![Formada em](https://img.shields.io/badge/Estudante-de%20Tecnologia-blue?style=for-the-badge&logo=graduation-cap)
 ![Aprendendo Sempre](https://img.shields.io/badge/Aprendendo-Sempre-green?style=for-the-badge&logo=book)
 
 ---
