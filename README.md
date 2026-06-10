@@ -47,8 +47,7 @@ Sou formada em ADS apaixonada por tecnologia. Gosto de transformar ideias em exp
 
 ## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@camilly--silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilly-silva-5117632a9)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilly-silva-5117632a9)
 ---
 
 > ✨ 
